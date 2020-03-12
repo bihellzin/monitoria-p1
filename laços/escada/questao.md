@@ -2,12 +2,12 @@ O usuário dará como entrada um valor inteiro N e receberá uma "escada" conten
 
 Exmeplo:
 
-Input
+Input..
 ``
 n = 3
 ``
 
-Output
+Output..
 ``
 '  #\n'
 ' ##\n'
