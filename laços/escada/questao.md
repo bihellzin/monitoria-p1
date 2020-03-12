@@ -5,4 +5,11 @@ Exemplo:
 Input  
 ```python
 n = 3
+```  
+
+Output
+```python
+'  #\n'
+' ##\n'
+'###\n'
 ```
