@@ -6,9 +6,9 @@ fib1 = 1
 cont = 1
 
 while cont < n:
-  temp = fib1
-  fib1 = fib1 + fib0
-  fib0 = temp
-  cont += 1
+    temp = fib1
+    fib1 = fib1 + fib0
+    fib0 = temp
+    cont += 1
 
 print(fib1) 
