@@ -8,6 +8,7 @@ Input
 valor_compras = 349
 ```  
 
-Output  ```python
+Output  
+```python
 'O troco deu 3 notas de 100, 0 notas de 50, 2 notas de 20, 0 notas de 10, 1 notas de 5, 2 notas de 2 e 0 moedas de 1 real'
 ```
