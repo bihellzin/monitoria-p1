@@ -3,13 +3,8 @@ O usuário dará como entrada um valor inteiro N e receberá uma "escada" conten
 Exemplo:
 
 Input  
-``
-n = 3
-``
+>n = 3
+
 
 Output  
-``
-'  #'  
-' ##'  
-'###'  
-``
+
