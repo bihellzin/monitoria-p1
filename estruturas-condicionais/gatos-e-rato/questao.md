@@ -11,8 +11,9 @@ rato = 3
 
 Output  
 ```python
-Gato B pegou o rato
+'Gato B pegou o rato'
 ```  
+
 
 Exemplo 2:  
 
@@ -25,8 +26,9 @@ rato = 3
 
 Output  
 ```python
-O rato escapou porque os gatos brigaram
+'O rato escapou porque os gatos brigaram'
 ```  
+
 
 Exemplo 3:  
 
@@ -39,5 +41,5 @@ rato = 5
 
 Output  
 ```python
-Gato A pegou o rato
+'Gato A pegou o rato'
 ``` 
