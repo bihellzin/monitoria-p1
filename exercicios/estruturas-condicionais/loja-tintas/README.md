@@ -15,6 +15,6 @@ area = 250
 
 Output  
 ```python
-Você precisara de 5 latas.
-Você vai pagar R$ 400
+'Você precisara de 5 latas.'
+'Você vai pagar R$ 400'
 ```  

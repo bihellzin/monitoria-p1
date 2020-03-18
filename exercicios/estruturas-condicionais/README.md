@@ -1,0 +1,1 @@
+Nesse diretório, estão as questões que devem ser feitas utilizando somente estruturas condicionais (if, elif, else).
