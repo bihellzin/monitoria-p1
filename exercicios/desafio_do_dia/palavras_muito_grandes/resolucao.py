@@ -11,9 +11,12 @@ while cont < n:
         saida = palavra[0] # adiciono a primeira letra da palavra na saida
         qntd_letras = 0
         for i in range(1, len(palavra)-1):
-            qntd_letras = qntd_letras + 1 # percorro da segunda letra da palavra ate a penultima letra, mas eh possivel percorrer toda a palavra e subtrair 2
+            qntd_letras = qntd_letras + 1 # percorro da segunda letra da palavra ate a penultima letra
+                                          # mas eh possivel percorrer toda a palavra e subtrair 2
 
-        saida = saida + str(qntd_letras) + palavra[-1] # adiciono a saida a string da variavel contendo a quantidade de letras entre a primeira e a ultima letra d palavr e depois adiciono a ultima letra
+        saida = saida + str(qntd_letras) + palavra[-1] # adiciono a saida a string da variavel contendo 
+                                                       # a quantidade de letras entre a primeira e a 
+                                                       # ultima letra d palavr e depois adiciono a ultima letra
 
         print(saida)
 
