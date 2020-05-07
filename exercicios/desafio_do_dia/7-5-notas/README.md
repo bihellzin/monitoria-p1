@@ -21,4 +21,4 @@ Output
 4
 ```  
 
-Como Carlos foi o que teve melhor nota na lista 1 e 3 e João teve as melhores notas nas listas 1 e 2, então somente 2 alunos receberam o chocolate. E mais de um aluno pode ter as melhor nota da lista.
+Como Carlos foi o que teve melhor nota na lista 1 e 3 e João teve as melhores notas nas listas 1 e 2, então 4 chocolates foram distruibuidos. E mais de um aluno pode ter as melhor nota da lista.
