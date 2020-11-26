@@ -1,0 +1,35 @@
+12345678900
+Carlos José Alves
+3
+Sistemas de informaçao
+Comportamento organizacional
+Redes de computadores
+Algoritmos e estuturas de dados
+Estatística
+
+09876543211
+Ana Beatriz Almeida Miranda
+5
+Ciencia da computaçao
+História e futuro da computaçao
+Gerenciamento de dados e informaçao
+Engenharia de software e sistemas
+Empreendedorismo em TI
+
+10293847510
+Thalles de Oliveira da Silva
+1
+Arquitetura e urbanismo
+Capo da Arquitetura, Urbanismo e Paisagismo I
+Conforto Ambiental I
+Desenho de Observação
+Estudos Sócio-Econômicos e Ambientais I
+Geometria Gráfica 3D I
+História da Arquitetura, Urbanismo e Paisagismo I
+Informática aplicada à Arquitetura, Urbanismo e Paisagismo I
+Métodos e Técnicas de Pesquisa em Arquitetura, Urbanismo e Paisagismo I
+Planejamento Urbano e Regional I
+Projeto de Arquitetura, Urbanismo e Paisagismo I
+Segno da Arquitetura, Urbanismo e Paisagismo I
+Tectônica I
+Teoria da Arquitetura, Urbanismo e Paisagismo I
